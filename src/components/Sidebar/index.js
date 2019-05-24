@@ -48,6 +48,14 @@ const Sidebar = () => (
           <a href="">Podcast</a>
         </li>
       </Nav>
+      <Nav>
+        <li>
+          <span>PLAYLISTS</span>
+        </li>
+        <li>
+          <a href="">Melhores do Rock</a>
+        </li>
+      </Nav>
     </div>
     <NewPlaylist>
       <img src={AddPlaylistIcon} alt="Nova Playlist" />
