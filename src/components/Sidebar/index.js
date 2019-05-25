@@ -9,10 +9,10 @@ const Sidebar = () => (
     <div>
       <Nav main>
         <li>
-          <a href="">Navegar</a>
+          <a href="https://www.google.com.br">Navegar</a>
         </li>
         <li>
-          <a href="">Rádio</a>
+          <a href="https://www.google.com.br">Rádio</a>
         </li>
       </Nav>
 
@@ -21,31 +21,31 @@ const Sidebar = () => (
           <span>SUA BIBLIOTECA</span>
         </li>
         <li>
-          <a href="">Seu daily music</a>
+          <a href="https://www.google.com.br">Seu daily music</a>
         </li>
         <li>
-          <a href="">Tocados recentemente</a>
+          <a href="https://www.google.com.br">Tocados recentemente</a>
         </li>
         <li>
-          <a href="">Músicas</a>
+          <a href="https://www.google.com.br">Músicas</a>
         </li>
         <li>
-          <a href="">Albuns</a>
+          <a href="https://www.google.com.br">Albuns</a>
         </li>
         <li>
-          <a href="">Artistas</a>
+          <a href="https://www.google.com.br">Artistas</a>
         </li>
         <li>
-          <a href="">Estações</a>
+          <a href="https://www.google.com.br">Estações</a>
         </li>
         <li>
-          <a href="">Arquivos locais</a>
+          <a href="https://www.google.com.br">Arquivos locais</a>
         </li>
         <li>
-          <a href="">Vídeos</a>
+          <a href="https://www.google.com.br">Vídeos</a>
         </li>
         <li>
-          <a href="">Podcast</a>
+          <a href="https://www.google.com.br">Podcast</a>
         </li>
       </Nav>
       <Nav>
@@ -53,7 +53,7 @@ const Sidebar = () => (
           <span>PLAYLISTS</span>
         </li>
         <li>
-          <a href="">Melhores do Rock</a>
+          <a href="https://www.google.com.br">Melhores do Rock</a>
         </li>
       </Nav>
     </div>
